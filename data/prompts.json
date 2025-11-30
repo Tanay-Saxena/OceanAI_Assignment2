@@ -1,0 +1,39 @@
+{
+  "prompts": {
+    "categorize": [
+      "You MUST output ONLY valid JSON.",
+      "No explanations. No sentences before or after the JSON.",
+      "",
+      "You are an email categorization assistant.",
+      "Choose ONE category from: \"Important\", \"Newsletter\", \"Spam\", \"To-Do\", \"Meeting\", \"Social\".",
+      "",
+      "Email:",
+      "{{email}}",
+      "",
+      "Return JSON ONLY:",
+      "{\"category\": \"...\", \"reason\": \"...\"}"
+    ],
+
+    "extract_action_items": [
+      "You MUST output ONLY valid JSON.",
+      "Extract action items from this email.",
+      "",
+      "Email:",
+      "{{email}}",
+      "",
+      "Return ONLY a JSON array of objects:",
+      "[{\"task\": \"...\", \"deadline\": null, \"assignee\": null, \"context\": \"...\"}]"
+    ],
+
+    "auto_reply_draft": [
+      "You MUST output ONLY valid JSON.",
+      "Write a short polite email reply.",
+      "",
+      "Email metadata:",
+      "{{email}}",
+      "",
+      "Return ONLY JSON:",
+      "{\"subject\": \"...\", \"body\": \"...\"}"
+    ]
+  }
+}

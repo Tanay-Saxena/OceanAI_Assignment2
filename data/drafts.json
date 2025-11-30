@@ -1,0 +1,44 @@
+{
+  "drafts": [
+    {
+      "id": "d_1764432537332",
+      "createdAt": "2025-11-29T16:08:57.332Z",
+      "error": "model_error",
+      "message": "[GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [404 Not Found] models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "draft": true,
+      "sourceEmailId": "e001"
+    },
+    {
+      "id": "d_1764432561760",
+      "createdAt": "2025-11-29T16:09:21.760Z",
+      "error": "model_error",
+      "message": "[GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [404 Not Found] models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "draft": true,
+      "sourceEmailId": "e001"
+    },
+    {
+      "id": "d_1764432574663",
+      "createdAt": "2025-11-29T16:09:34.663Z",
+      "error": "model_error",
+      "message": "[GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [404 Not Found] models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "draft": true,
+      "sourceEmailId": "e001"
+    },
+    {
+      "id": "d_1764432584010",
+      "createdAt": "2025-11-29T16:09:44.010Z",
+      "error": "model_error",
+      "message": "[GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent: [404 Not Found] models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ListModels to see the list of available models and their supported methods.",
+      "draft": true,
+      "sourceEmailId": "e001"
+    },
+    {
+      "id": "d_1764433505276",
+      "createdAt": "2025-11-29T16:25:05.276Z",
+      "subject": "Re: Project Aurora — weekly status and roadblocks",
+      "body": "Hi Alice,\n\nThanks for the update. I'll assign someone to investigate issue #842 right away. Regarding the design review, I'm unable to help with that. Please reach out to the design team directly.\n\nBest,\n[Your Name]",
+      "draft": true,
+      "sourceEmailId": "e001"
+    }
+  ]
+}

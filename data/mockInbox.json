@@ -1,0 +1,142 @@
+{
+  "emails": [
+    {
+      "id": "e001",
+      "from": "alice@partnerco.com",
+      "to": "you@domain.com",
+      "subject": "Project Aurora — weekly status and roadblocks",
+      "date": "2025-11-15T09:12:00+05:30",
+      "body": "Hi,\n\nHere is the weekly update for Project Aurora. We completed the integration tests and found two blocking issues in auth. Can you assign someone to look into issue #842? Also, we need a design review next Tuesday.\n\nBest,\nAlice",
+      "labels": [
+        "Uncategorized",
+        "To-Do"
+      ]
+    },
+    {
+      "id": "e002",
+      "from": "meeting@calendars.example",
+      "to": "you@domain.com",
+      "subject": "Invitation: Design Review — Tue Nov 25 3:00 PM",
+      "date": "2025-11-10T08:00:00+05:30",
+      "body": "You are invited to: Design Review. Please confirm availability. Agenda: evaluate new UI for dashboard.",
+      "labels": []
+    },
+    {
+      "id": "e003",
+      "from": "newsletter@techdaily.example",
+      "to": "you@domain.com",
+      "subject": "TechDaily — Top AI Advances This Week",
+      "date": "2025-11-14T06:00:00+05:30",
+      "body": "Welcome to this week's TechDaily. Highlights: new model releases, tips and tutorials.",
+      "labels": []
+    },
+    {
+      "id": "e004",
+      "from": "spam-offers@cheapstuff.example",
+      "to": "you@domain.com",
+      "subject": "Get 80% off on all gadgets!!!",
+      "date": "2025-11-13T02:50:00+05:30",
+      "body": "Buy now! Limited stock. Click this link to claim your discount.",
+      "labels": []
+    },
+    {
+      "id": "e005",
+      "from": "hr@university.example",
+      "to": "you@domain.com",
+      "subject": "Request: Student Interview Availability",
+      "date": "2025-11-12T11:30:00+05:30",
+      "body": "Could you conduct a 30-minute interview for the Research Intern position? Please propose 3 time slots this week.",
+      "labels": []
+    },
+    {
+      "id": "e006",
+      "from": "pm@acme.example",
+      "to": "you@domain.com",
+      "subject": "Please review the quarter roadmap and confirm tasks",
+      "date": "2025-11-11T16:20:00+05:30",
+      "body": "Please review attached roadmap. Action: confirm which tasks you'll own by Friday Nov 21.",
+      "labels": []
+    },
+    {
+      "id": "e007",
+      "from": "alerts@monitoring.example",
+      "to": "you@domain.com",
+      "subject": "ALERT: High error rate on /api/v1/login",
+      "date": "2025-11-16T03:07:00+05:30",
+      "body": "Error rate exceeded threshold (5%). Investigate service auth-service. Suggested action: rollback last deploy.",
+      "labels": []
+    },
+    {
+      "id": "e008",
+      "from": "jessica@client.example",
+      "to": "you@domain.com",
+      "subject": "Can you provide the invoice for October?",
+      "date": "2025-11-09T10:05:00+05:30",
+      "body": "Hi — could you send the invoice for October services? We need it for bookkeeping; deadline Nov 20.",
+      "labels": []
+    },
+    {
+      "id": "e009",
+      "from": "recruiter@jobboard.example",
+      "to": "you@domain.com",
+      "subject": "Opportunity: Backend Engineer (remote)",
+      "date": "2025-11-05T13:50:00+05:30",
+      "body": "We found your profile. Are you open to a discussion? If yes, share a CV & preferred times.",
+      "labels": []
+    },
+    {
+      "id": "e010",
+      "from": "build@ci.example",
+      "to": "you@domain.com",
+      "subject": "CI: Build failed on branch feature/auth",
+      "date": "2025-11-16T05:00:00+05:30",
+      "body": "Build failed: unit tests failing in auth module. Logs attached. Please triage.",
+      "labels": []
+    },
+    {
+      "id": "e011",
+      "from": "simon@techteam.example",
+      "to": "you@domain.com",
+      "subject": "Lunch catch-up?",
+      "date": "2025-11-04T12:00:00+05:30",
+      "body": "Free for lunch Thursday? No action required if you can't make it.",
+      "labels": []
+    },
+    {
+      "id": "e012",
+      "from": "ops@payments.example",
+      "to": "you@domain.com",
+      "subject": "Action required: KYC documentation for vendor X",
+      "date": "2025-11-07T09:00:00+05:30",
+      "body": "Please upload KYC documents for vendor X by Nov 22 or payments will be paused.",
+      "labels": []
+    },
+    {
+      "id": "e013",
+      "from": "events@community.example",
+      "to": "you@domain.com",
+      "subject": "RSVP: Virtual Hackathon — Nov 29",
+      "date": "2025-11-01T08:00:00+05:30",
+      "body": "Register for the hackathon. Early-bird spots closing soon.",
+      "labels": []
+    },
+    {
+      "id": "e014",
+      "from": "vendor@softwaresales.example",
+      "to": "you@domain.com",
+      "subject": "Quote for license renewal — please review",
+      "date": "2025-11-08T14:20:00+05:30",
+      "body": "Attached the renewal quote for licenses expiring Dec 15. Please approve or request discount.",
+      "labels": []
+    },
+    {
+      "id": "e015",
+      "from": "alerts-security@company.example",
+      "to": "you@domain.com",
+      "subject": "Security notice: Password rotation requested",
+      "date": "2025-11-17T01:10:00+05:30",
+      "body": "All employees must rotate passwords within 7 days. No action if already rotated.",
+      "labels": []
+    }
+  ]
+}
